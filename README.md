@@ -1,9 +1,6 @@
 # Hi, I'm Haris!
 <!-- Socials -->
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=harisahmadg&label=Profile%20views&color=5910c6&style=flat" alt="harisahmadg" /> 
-</p>
-[![wakatime](https://wakatime.com/badge/user/b6c3bdff-854c-4c71-8fe1-6747bedddc0b.svg)](https://wakatime.com/@b6c3bdff-854c-4c71-8fe1-6747bedddc0b)
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square) [![wakatime](https://wakatime.com/badge/user/b6c3bdff-854c-4c71-8fe1-6747bedddc0b.svg)](https://wakatime.com/@b6c3bdff-854c-4c71-8fe1-6747bedddc0b)
 
 <!-- Introduction -->
 <h3 align="center">I'm a passionate undergraduate student studying computer science at York University. 
