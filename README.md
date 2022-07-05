@@ -1,6 +1,6 @@
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harisahmadg&label=Profile%20views&color=5910c6&style=flat" alt="harisahmadg" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=harisahmadg&label=Profile%20views&color=5910c6&style=flat" alt="harisahmadg" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
