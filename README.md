@@ -8,7 +8,7 @@
 <!-- Socials -->
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=harisahmadg&label=Profile%20views&color=5910c6&style=flat" alt="harisahmadg" /> 
-  <img src="[https://wakatime.com/badge/user/b6c3bdff-854c-4c71-8fe1-6747bedddc0b.svg](https://wakatime.com/badge/user/b6c3bdff-854c-4c71-8fe1-6747bedddc0b.svg)" alt="Total time coded since Aug 11 2019" />
+  <img src="https://wakatime.com/badge/user/b6c3bdff-854c-4c71-8fe1-6747bedddc0b.svg" alt="Total time coded since Aug 11 2019" />
 </p>
 
 [![wakatime](https://wakatime.com/badge/user/b6c3bdff-854c-4c71-8fe1-6747bedddc0b.svg)](https://wakatime.com/@b6c3bdff-854c-4c71-8fe1-6747bedddc0b)
