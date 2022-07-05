@@ -1,8 +1,8 @@
 # Hi, I'm Haris!
 
-<!-- Socials -->
-[![](https://komarev.com/ghpvc/?username=harisahmadg&style=plastic&color=blueviolet)](https://github.com/harisahmadg)
-[![wakatime](https://wakatime.com/badge/user/b6c3bdff-854c-4c71-8fe1-6747bedddc0b.svg)](https://wakatime.com/@b6c3bdff-854c-4c71-8fe1-6747bedddc0b)
+<!-- Statistics -->
+[![](https://komarev.com/ghpvc/?username=harisahmadg&style=flat&color=blueviolet)](https://github.com/harisahmadg) ⎻
+[![wakatime](https://wakatime.com/badge/user/b6c3bdff-854c-4c71-8fe1-6747bedddc0b.svg)](https://wakatime.com/@b6c3bdff-854c-4c71-8fe1-6747bedddc0b) ⎻
 [![Solved](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fashleymavericks&logo=leetcode&logoColor=yellow)](https://leetcode.com/harisa23/)
 
 <!-- Introduction -->
@@ -17,7 +17,7 @@
 <!-- Socials -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/haris-a-b17229198" target="blank">
+  <a href="https://linkedin.com/in/haris-a-b17229198" target="_blank">
     <img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -26,11 +26,10 @@
       width="40"
     />
   </a>
-  <a href="https://www.leetcode.com/harisa23" target="blank"
+  <a href="https://www.leetcode.com/harisa23" target="_blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-     
-    generator/master/src/images/icons/Social/leet-code.svg"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
       alt="harisa23"
       height="30"
       width="40"
