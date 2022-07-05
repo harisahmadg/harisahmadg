@@ -1,10 +1,17 @@
-<h3 align="center">A passionate frontend developer</h3>
+<!-- Introduction -->
+<h3 align="center">I'm a passionate undergraduate student studying computer science at York University. 
+  Actively evolving and adapting especially given the rate that this field is accelerating. 
+  I look forward to utilize well-honed skills and knowledge in planning, coding and testing to 
+  develop impacful software solutions.
+ </h3>
 
+<!-- Socials -->
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=harisahmadg&label=Profile%20views&color=5910c6&style=flat" alt="harisahmadg" /> 
+  <a href="https://wakatime.com/@b6c3bdff-854c-4c71-8fe1-6747bedddc0b"><img src="https://wakatime.com/badge/user/b6c3bdff-854c-4c71-8fe1-6747bedddc0b.svg" alt="Total time coded since Aug 11 2019" /></a>
 </p>
 
-# (Socials)
+<!-- Socials -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/haris-a-b17229198" target="blank">
