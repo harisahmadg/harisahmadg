@@ -1,7 +1,7 @@
 # Hi, I'm Haris!
 
 <!-- Socials -->
-![](https://komarev.com/ghpvc/?username=harisahmadg&style=plastic&color=blueviolet)  
+[![](https://komarev.com/ghpvc/?username=harisahmadg&style=plastic&color=blueviolet)](https://github.com/harisahmadg)
 [![wakatime](https://wakatime.com/badge/user/b6c3bdff-854c-4c71-8fe1-6747bedddc0b.svg)](https://wakatime.com/@b6c3bdff-854c-4c71-8fe1-6747bedddc0b)
 [![Solved](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fashleymavericks&logo=leetcode&logoColor=yellow)](https://leetcode.com/harisa23/)
 
